@@ -1,0 +1,20 @@
+# ninja log v5
+3	5557	1672519977829231409	CMakeFiles/tic_tac.dir/main.cpp.o	f6ed3d99c7803f5b
+1	1508	1672336887567293621	CMakeFiles/tic_tac.dir/Game/Background/Background.cpp.o	7e3e387f0005509d
+5837	6184	1672519978457292702	tic_tac	873251f5d1b99235
+1	25	1676543957746871731	build.ninja	5a168c379eac2b69
+1	1124	1672487662393483539	CMakeFiles/tic_tac.dir/Game/GameObjects/gameObject.cpp.o	c16ba5d581931254
+2	957	1672500427178928621	CMakeFiles/tic_tac.dir/Game/Text/Text.cpp.o	1f85ca60ef5c2a6c
+2	834	1672499869342254802	CMakeFiles/tic_tac.dir/Game/GameObjects/Grid/Grid.cpp.o	591a8404e9ce07f3
+1	904	1672488826806701093	CMakeFiles/tic_tac.dir/Game/GameObjects/X_obj/X_obj.cpp.o	41aa22e82ad3665d
+3	5837	1672519978109258879	CMakeFiles/tic_tac.dir/Game/Game.cpp.o	ed87f24013c428ac
+2	1132	1672487662397483710	CMakeFiles/tic_tac.dir/Game/GameObjects/O_obj/O_obj.cpp.o	f2725add05b984d6
+3	2272	1676543964364279340	CMakeFiles/tic_tac.dir/Game/GameObjects/O_obj/O_obj.cpp.o	f2725add05b984d6
+2	2276	1676543964368280171	CMakeFiles/tic_tac.dir/Game/GameObjects/gameObject.cpp.o	c16ba5d581931254
+1	2318	1676543964408288481	CMakeFiles/tic_tac.dir/Game/Background/Background.cpp.o	7e3e387f0005509d
+3	2389	1676543964484304267	CMakeFiles/tic_tac.dir/Game/GameObjects/X_obj/X_obj.cpp.o	41aa22e82ad3665d
+1	2419	1676543964508309252	CMakeFiles/tic_tac.dir/main.cpp.o	f6ed3d99c7803f5b
+2	2467	1676543964556319222	CMakeFiles/tic_tac.dir/Game/GameObjects/Grid/Grid.cpp.o	591a8404e9ce07f3
+3	2478	1676543964568321716	CMakeFiles/tic_tac.dir/Game/Text/Text.cpp.o	1f85ca60ef5c2a6c
+2	2577	1676543964668342488	CMakeFiles/tic_tac.dir/Game/Game.cpp.o	ed87f24013c428ac
+2577	2762	1676543964852380708	tic_tac	873251f5d1b99235
